@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Crud_Angular.csproj": {}
+    "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Crud_Angular.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Crud_Angular.csproj": {
+    "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Crud_Angular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Crud_Angular.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Crud_Angular.csproj",
         "projectName": "Crud_Angular",
-        "projectPath": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Crud_Angular.csproj",
+        "projectPath": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Crud_Angular.csproj",
         "packagesPath": "C:\\Users\\Daniel Gonzalez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Gonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",

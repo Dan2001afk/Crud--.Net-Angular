@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\source\\repos\\crud_angular\\crud_angular\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\source\\repos\\crud_angular\\crud_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\source\\repos\\crud_angular\\crud_angular\\data\\estudiantedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\desktop\\proyecto angular\\crud--.net-angular\\crud_angular\\data\\estudiantedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\data\\estudiantedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\source\\repos\\crud_angular\\crud_angular\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\desktop\\proyecto angular\\crud--.net-angular\\crud_angular\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\desktop\\proyecto angular\\crud--.net-angular\\crud_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|c:\\users\\daniel gonzalez\\desktop\\proyecto angular\\crud--.net-angular\\crud_angular\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4AC084A-3C73-4C9D-8ACC-27F03E3CEFAC}|Crud_Angular\\Crud_Angular.csproj|solutionrelative:crud_angular\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,30 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Program.cs",
               "RelativeDocumentMoniker": "Crud_Angular\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Program.cs",
               "RelativeToolTip": "Crud_Angular\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:19:33.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T18:19:33.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EstudianteController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Controllers\\EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Controllers\\EstudianteController.cs",
               "RelativeDocumentMoniker": "Crud_Angular\\Controllers\\EstudianteController.cs",
-              "ToolTip": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Controllers\\EstudianteController.cs",
               "RelativeToolTip": "Crud_Angular\\Controllers\\EstudianteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvwkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T06:32:43.972Z",
               "EditorCaption": ""
@@ -58,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Models\\Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "Crud_Angular\\Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Models\\Estudiante.cs",
               "RelativeToolTip": "Crud_Angular\\Models\\Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,15 +67,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EstudianteData.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Data\\EstudianteData.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Data\\EstudianteData.cs",
               "RelativeDocumentMoniker": "Crud_Angular\\Data\\EstudianteData.cs",
-              "ToolTip": "C:\\Users\\Daniel Gonzalez\\source\\repos\\Crud_Angular\\Crud_Angular\\Data\\EstudianteData.cs",
+              "ToolTip": "C:\\Users\\Daniel Gonzalez\\Desktop\\proyecto angular\\Crud--.Net-Angular\\Crud_Angular\\Data\\EstudianteData.cs",
               "RelativeToolTip": "Crud_Angular\\Data\\EstudianteData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAGkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:33:02.415Z"
+              "WhenOpened": "2024-11-08T06:33:02.415Z",
+              "EditorCaption": ""
             }
           ]
         }
